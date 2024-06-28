@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This is Namaste react by janardhan kandregula",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janardhankandregula/Welcome-React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "janardhan kandregula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janardhankandregula/Welcome-React/issues"
+  },
+  "homepage": "https://github.com/janardhankandregula/Welcome-React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
